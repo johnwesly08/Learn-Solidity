@@ -1,6 +1,6 @@
-# Blockchain Learning with Solidity
+# Mastering Solidity: The Ultimate Guide to Blockchain Smart Contracts
 
-Welcome to the **Learn_Solidity** repository! This repository contains fundamental code examples and tutorials to help you learn the basics of **Solidity** and how to write **Smart Contracts** for Blockchain networks. Whether you're just getting started or looking to enhance your knowledge, this repository is a great resource to explore core Solidity concepts.
+Welcome to the **Learn-Solidity** repository! This repository contains fundamental code examples and tutorials to help you learn the basics of **Solidity** and how to write **Smart Contracts** for Blockchain networks. Whether you're just getting started or looking to enhance your knowledge, this repository is a great resource to explore core Solidity concepts.
 
 ## 📚 Contents
 
@@ -30,7 +30,7 @@ Before you begin, ensure you have the following installed:
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/Blockchain-Learning.git
+git clone https://github.com/yourusername/Learn-Solidity.git
 ```
 
 ### Install Dependencies
@@ -38,7 +38,7 @@ git clone https://github.com/yourusername/Blockchain-Learning.git
 Navigate to the project directory and install the necessary dependencies:
 
 ```bash
-cd Blockchain-Learning
+cd Learn-Solidity
 npm install
 ```
 
@@ -78,8 +78,8 @@ To contribute:
 If you have any questions, suggestions, or want to collaborate, feel free to reach out to me:
 
 - **Email**: [johnwesleywork08@gmail.com]
-- **GitHub**: [your-github-username](https://github.com/johnwesly08)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/john-wesly-a2a26b230/)
+- **GitHub**: [johnwesly08](https://github.com/johnwesly08)
+- **LinkedIn**: [John Wesly](https://www.linkedin.com/in/john-wesly-a2a26b230/)
 
 ## 💻 License
 
