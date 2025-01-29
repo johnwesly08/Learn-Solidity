@@ -1,9 +1,6 @@
-I apologize for all the confusion. Here's the full content in a **single `README.md` file** format as requested:
-
-```markdown
 # Blockchain Learning with Solidity
 
-Welcome to the **Blockchain Learning** repository! This repository contains fundamental code examples and tutorials to help you learn the basics of **Solidity** and how to write **Smart Contracts** for Blockchain networks. Whether you're just getting started or looking to enhance your knowledge, this repository is a great resource to explore core Solidity concepts.
+Welcome to the **Learn_Solidity** repository! This repository contains fundamental code examples and tutorials to help you learn the basics of **Solidity** and how to write **Smart Contracts** for Blockchain networks. Whether you're just getting started or looking to enhance your knowledge, this repository is a great resource to explore core Solidity concepts.
 
 ## 📚 Contents
 
@@ -80,10 +77,9 @@ To contribute:
 
 If you have any questions, suggestions, or want to collaborate, feel free to reach out to me:
 
-- **Email**: [your-email@example.com]
-- **GitHub**: [your-github-username](https://github.com/your-github-username)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- **Twitter**: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- **Email**: [johnwesleywork08@gmail.com]
+- **GitHub**: [your-github-username](https://github.com/johnwesly08)
+- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/john-wesly-a2a26b230/)
 
 ## 💻 License
 
@@ -95,6 +91,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Ethereum Documentation](https://ethereum.org/en/developers/docs/)
 - [Truffle Framework](https://www.trufflesuite.com/)
 - [Hardhat Framework](https://hardhat.org/)
-```
-
-I made sure all the content is fully formatted and included inside the `README.md` file this time. Please check it now, and let me know if everything looks good or if you'd like any further adjustments.
