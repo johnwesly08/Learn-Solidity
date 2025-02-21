@@ -19,7 +19,6 @@ contract DataTypes {
 
 contract variable {
     uint public num = 5;//state variable
-
     constructor() {
         num = 10;
     }
